@@ -1,0 +1,130 @@
+.whole {
+    width: 100vw;
+    height: 2704px;
+    background: black;
+}
+
+.menu {
+    width: 1440px;
+    height: 100px;
+    /* background: red; */
+    left: 50%;
+    top: 0px;
+    transform: translate(-50%, 0%);
+    position: relative;
+    border-bottom: grey 10px;
+}
+
+.link {
+    color: white;
+    float: left;
+    margin-left: 156px;
+    margin-top: 52px;
+    text-align: center;
+    left: 50%;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.capitalism {
+    color: red;
+}
+
+.bar {
+    width: 1440px;
+    height: 50px;
+    /* background: url(../images/biglogo.webp);     Replace with text Merch*/
+    background-size: 100%;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    left: 50%;
+    top: 0px;
+    transform: translate(-50%, 0%);
+    position: relative;
+    border: solid 1px white;
+}
+
+
+.contents {
+    width: 1440px;
+    height: 312px;
+    /* border: solid white 1px; */
+    left: 50%;
+    transform: translate(-50%, 0%);
+    position: relative;
+    margin-top: 20px;
+}
+
+.section {
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+
+.iowaBox {
+    width: 1440px;
+    height: 560px;
+    border: solid white 1px;
+    margin-top: 12px;
+}
+
+.row {
+    width: 1440px;
+    height: 280px;
+    /* border: solid white 1px; */
+    float: left;
+}
+
+.itemLeft {
+    width: 240px;
+    height: 240px;
+    /* background: white; */
+    float: left;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* border: solid 1px white; */
+}
+
+.item {
+    width: 240px;
+    height: 240px;
+    /* background: white; */
+    margin: 20px; /*change back to 20 after removing borders*/
+    float: left;
+    /* border: solid 1px white; */
+}
+
+.preview {
+    width: 240px;
+    height: 212px;
+    background: white;
+}
+
+.itemInfo {
+    color: white;
+}
+
+.seeAll {
+    font-size: 32px;
+    color: red;
+    /* text-align: center; */
+    text-decoration: none;
+    top: 80px;
+    position: relative;
+}
+
+.appearalBox {
+    width: 1440px;
+    height: 560px;
+    border: solid white 1px;
+    margin-top: 12px;
+}
+
+.miscBox {
+    width: 1440px;
+    height: 280px;
+    border: solid white 1px;
+    margin-top: 12px;
+}
