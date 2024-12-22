@@ -1,0 +1,253 @@
+.whole {
+    width: 100vw;
+    height: 2132px;
+    background: black;
+}
+
+.menu {
+    width: 1440px;
+    height: 100px;
+    /* background: red; */
+    left: 50%;
+    top: 0px;
+    transform: translate(-50%, 0%);
+    position: relative;
+    border-bottom: grey 10px;
+}
+
+.link {
+    color: white;
+    float: left;
+    margin-left: 156px;
+    margin-top: 52px;
+    text-align: center;
+    left: 50%;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.link2 {
+    color: gray;
+    float: left;
+    margin-left: 156px;
+    margin-top: 52px;
+    text-align: center;
+    left: 50%;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.capitalism {
+    color: red;
+}
+
+.bar {
+    width: 1440px;
+    height: 360px;
+    background: url(../images/merch\ hero.webp) center fixed no-repeat;
+    background-size: 100%;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    left: 50%;
+    top: 0px;
+    transform: translate(-50%, 0%);
+    position: relative;
+    /* border: solid 1px white; */
+}
+
+
+.contents {
+    width: 1440px;
+    height: 312px;
+    /* border: solid white 1px; */
+    left: 50%;
+    transform: translate(-50%, 0%);
+    position: relative;
+    margin-top: 20px;
+}
+
+.section {
+    font-size: 40px;
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.iowaBox {
+    width: 1440px;
+    height: 560px;
+    border: solid red 1px;
+    margin-top: 12px;
+}
+
+.row {
+    width: 1440px;
+    height: 280px;
+    /* border: solid white 1px; */
+    float: left;
+}
+
+.itemLeft {
+    width: 240px;
+    height: 240px;
+    /* background: white; */
+    float: left;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* border: solid 1px white; */
+}
+
+.item {
+    width: 240px;
+    height: 240px;
+    /* background: white; */
+    margin: 20px;
+    float: left;
+    /* border: solid 1px white; */
+}
+
+.preview {
+    width: 240px;
+    height: 212px;
+    background: white;
+}
+
+.itemInfo {
+    color: white;
+    margin-top: 8px;
+}
+
+.seeAll {
+    font-size: 32px;
+    color: gray;
+    /* text-align: center; */
+    text-decoration: none;
+    top: 80px;
+    position: relative;
+}
+
+.appAll {
+    letter-spacing: 0px;
+    font-size: 31px;
+}
+
+.appearalBox {
+    width: 1440px;
+    height: 560px;
+    border: solid red 1px;
+    margin-top: 12px;
+}
+
+.miscBox {
+    width: 1440px;
+    height: 280px;
+    border: solid red 1px;
+    margin-top: 12px;
+}
+
+.iowaPre01 {
+    background: url(../images/Merch01.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.iowaPre02 {
+    background: url(../images/Merch02.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.iowaPre03 {
+    background: url(../images/Merch03.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.iowaPre04 {
+    background: url(../images/Merch04.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.iowaPre05 {
+    background: url(../images/Merch05.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.iowaPre06 {
+    background: url(../images/Merch06.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.iowaPre07 {
+    background: url(../images/Merch07.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.iowaPre08 {
+    background: url(../images/Merch08.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.appPre01 {
+    background: url(../images/Appearal01.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.appPre02 {
+    background: url(../images/Appearal02.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.appPre03 {
+    background: url(../images/Appearal03.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.appPre04 {
+    background: url(../images/Appearal04.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.appPre05 {
+    background: url(../images/Appearal05.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.appPre06 {
+    background: url(../images/Appearal06.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.appPre07 {
+    background: url(../images/Appearal07.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.appPre08 {
+    background: url(../images/Appearal08.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.appPre09 {
+    background: url(../images/Appearal09.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.miscPre01 {
+    background: url(../images/Misc01.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.miscPre02 {
+    background: url(../images/Misc02.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.miscPre03 {
+    background: url(../images/Misc03.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.miscPre04 {
+    background: url(../images/Misc04.webp) center fixed no-repeat;
+    background-size: 100%;
+}

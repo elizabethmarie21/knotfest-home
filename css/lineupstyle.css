@@ -1,0 +1,221 @@
+.whole {
+    width: 100vw;
+    height: 3292px;
+    background: black;
+}
+
+.menu {
+    width: 1440px;
+    height: 100px;
+    /* background: red; */
+    left: 50%;
+    top: 0px;
+    transform: translate(-50%, 0%);
+    position: relative;
+    border-bottom: grey 10px;
+}
+
+.link {
+    color: white;
+    float: left;
+    margin-left: 156px;
+    margin-top: 52px;
+    text-align: center;
+    left: 50%;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.link2 {
+    color: gray;
+    float: left;
+    margin-left: 156px;
+    margin-top: 52px;
+    text-align: center;
+    left: 50%;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.lineup {
+    color: red;
+}
+
+.hero {
+    width: 1440px;
+    height: 1800px;
+    background: url(../images/hero2.jpg) center fixed no-repeat;
+    background-size: 100%;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    left: 50%;
+    top: 0px;
+    transform: translate(-50%, 0%);
+    position: relative;
+    /* border: solid 1px white; */
+}
+
+
+.contents {
+    width: 1440px;
+    height: 312px;
+    /* border: solid white 1px; */
+    left: 50%;
+    transform: translate(-50%, 0%);
+    position: relative;
+    margin-top: 20px;
+}
+
+.section {
+    font-size: 40px;
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.headBox {
+    width: 1440px;
+    height: 280px;
+    border: solid red 1px;
+    margin-top: 12px;
+}
+
+.row {
+    width: 1440px;
+    height: 280px;
+    /* border: solid white 1px; */
+    float: left;
+}
+
+.itemLeft {
+    width: 212px;
+    height: 240px;
+    /* background: white; */
+    float: left;
+    margin-left: 64px;
+    /* margin-right: 20px; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* border: solid 1px white; */
+}
+
+.item {
+    width: 212px;
+    height: 240px;
+    /* background: white; */
+    /* margin: 20px;*/
+    margin-left: 64px;
+    margin-top: 20px;
+    float: left;
+    /* border: solid 1px white; */
+}
+
+.preview {
+    width: 212px;
+    height: 212px;
+    background: white;
+}
+
+.itemInfo {
+    color: white;
+    margin-top: 8px;
+    font-size: 28px;
+}
+
+.seeAll {
+    font-size: 32px;
+    color: red;
+    /* text-align: center; */
+    text-decoration: none;
+    top: 80px;
+    position: relative;
+}
+
+.appAll {
+    letter-spacing: 0px;
+    font-size: 31px;
+}
+
+.mainBox {
+    width: 1440px;
+    height: 280px;
+    border: solid red 1px;
+    margin-top: 12px;
+}
+
+.pulseBox {
+    width: 1440px;
+    height: 560px;
+    border: solid red 1px;
+    margin-top: 12px;
+}
+
+.headPre01 {
+    background: url(../images/lineup01.jfif) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.headPre02 {
+    background: url(../images/lineup02.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.headPre03 {
+    background: url(../images/lineup03.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.mainPre01 {
+    background: url(../images/lineup04.jpeg) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.mainPre02 {
+    background: url(../images/lineup05.jfif) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.mainPre03 {
+    background: url(../images/lineup06.jpg) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.mainPre04 {
+    background: url(../images/lineup07.jpg) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.mainPre05 {
+    background: url(../images/lineup08.jpg) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.pulsePre01 {
+    background: url(../images/lineup09.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.pulsePre02 {
+    background: url(../images/lineup10.jpg) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.pulsePre03 {
+    background: url(../images/lineup11.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.pulsePre04 {
+    background: url(../images/lineup12.webp) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.pulsePre05 {
+    background: url(../images/lineup13.jpg) center fixed no-repeat;
+    background-size: 100%;
+}
+
+.pulsePre06 {
+    background: url(../images/lineup14.jpg) center fixed no-repeat;
+    background-size: 100%;
+}
